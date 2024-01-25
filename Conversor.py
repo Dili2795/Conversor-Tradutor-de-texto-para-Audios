@@ -1,3 +1,8 @@
+# Instalação:
+    # pip install pyttsx3
+    # pip install pygame
+    # pip install googletrans==4.0.0-rc1
+
 import gtts
 import pyttsx3
 import pygame
